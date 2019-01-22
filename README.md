@@ -6,11 +6,13 @@ Google Map fragment was created using boilerplate code from the SDK and tutorial
 
 Project Proposal
 INFO 448, Fall 2018
-Created byJuan
-Acevedo
+Created by
+
+JuanAcevedo
 Yichao Wang
 Sarthak Turkhia
 Zubair Amjad
+
 As of iOS 11, Apple introduced an emergency SOS feature that is available to use on
 their mobile devices. This feature can be used on any mobile device that supports iOS 11 and
 up. The purpose of the emergency SOS feature is so that if the user gets into any sort of trouble
@@ -69,19 +71,26 @@ User Stories
 
 ● As a user, I want to be able to make an emergency call to emergency services easily
 and quickly in urgent cases
+
 ● As a user, I want to be able to send my location and a short message to my designated
 contacts in case there is an emergency
+
 ● As a user, I want to be able to pick between calling emergency services or a predefined
 contact in case there is an emergency
+
 ● As a user, I want to be able to set a timer so that if the timer expires, emergency
 services/emergency contacts will be contacted
+
 ● As a user, I want to be able to check in to my app, to set a status that I am currently
 safe, and if I don’t check in at a given time, emergency services/contacts will be
 called/messaged.
+
 ● As a user, I want to be able to see my current location and nearby emergency service
 centers.
+
 ● As a user, I want to be able to set a recorder to record audio in case something happens
 to me.
+
 ● As a user, I want to be able to access my audio recordings, and I want them to be saved
 on my phone for later, or on the cloud in case they are deleted.
 There are four main screens for the app. The menu/setting screen allows the user to add
