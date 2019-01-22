@@ -93,10 +93,13 @@ to me.
 
 ● As a user, I want to be able to access my audio recordings, and I want them to be saved
 on my phone for later, or on the cloud in case they are deleted.
+
 There are four main screens for the app. The menu/setting screen allows the user to add
 emergency contacts. The map screen displays a map and allows the user to get their current
 location and also be able to send it. The emergency screen allows a user to text and call the
 emergency contacts. The check-in screen allows user to set a timer and set the status to
-indicate if user is currently safe. The
-Prototype
+indicate if user is currently safe. 
+
+ThePrototype
+
 https://www.figma.com/file/KS1zCJZa7R23Nn8fS8HHkqNe/Introduction?node-id=0%3A1
