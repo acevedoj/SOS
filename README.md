@@ -65,7 +65,8 @@ google drive. This way they can always have a copy of the file in case it is del
 device, they can even share it with people they trust in case of an event where the user cannot
 be located. Users will be able to make multiple audio recordings, which they can then listen to at
 any point in time. This will make use of the devices microphone to record the user.
-User Stories
+User Stories 
+
 ● As a user, I want to be able to make an emergency call to emergency services easily
 and quickly in urgent cases
 ● As a user, I want to be able to send my location and a short message to my designated
